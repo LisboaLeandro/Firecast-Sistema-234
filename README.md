@@ -11,6 +11,6 @@ Ficha automatizada criada para o RPG narrativo Sistema 2/3/4.
 ## Como Instalar
 Caso tenha o Firecast instalado, clique no link abaixo:
 
-[CLIQUE AQUI PARA INSTALAR A FICHA](firecast:/plugins/install?url=https://github.com/LisboaLeandro/Firecast-Sistema-234/releases/download/V.1/Ficha_Sistema234.rpk)
+[CLIQUE AQUI PARA INSTALAR A FICHA](https://github.com/LisboaLeandro/Firecast-Sistema-234/releases/download/V.1/Ficha_Sistema234.rpk)
 
 Ou baixe o arquivo manualmente na aba "Releases".
