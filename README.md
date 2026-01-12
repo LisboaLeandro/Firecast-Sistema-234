@@ -1,4 +1,4 @@
-# Ficha Sistema 2/3/4 para Firecast
+# Ficha Sistema 2/3/4
 
 Ficha automatizada criada para o RPG narrativo Sistema 2/3/4.
 
